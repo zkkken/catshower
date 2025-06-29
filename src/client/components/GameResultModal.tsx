@@ -236,4 +236,5 @@ export const GameResultModal: React.FC<GameResultModalProps> = ({
       </div>
     </div>
   );
-}; 
+};
+
